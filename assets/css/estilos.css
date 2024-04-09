@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-hero.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -16,10 +16,12 @@ body {
 
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 400px;
+  width: auto;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: top;
+  border-top-right-radius: 20%;
 }
 
 /* Contacto */
